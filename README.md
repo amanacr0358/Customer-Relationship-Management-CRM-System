@@ -1,6 +1,6 @@
 <h1>Customer Relationship Management (CRM) System</h1>
 </br>
-<img src = "https://github.com/amanacr0358/longing-mailbox-6052/assets/119345842/f901ab75-d5bb-4455-ade4-9d2e9ba25aea"/>
+<img src = "https://user-images.githubusercontent.com/119345842/247150644-f901ab75-d5bb-4455-ade4-9d2e9ba25aea.png"/>
 
 
 <h3>Domain Description</h3>
@@ -19,7 +19,7 @@
 <h5>7. Log out from the customer support representative account.</h5>
 </hr>
 <h4>Role of Customer</h4>
-<h5>1. Register for a customer account by providing necessary information.</h5>
+<h5>1. Register for a customer account by providing the necessary information.</h5>
 <h5>2. Log in to the customer account using registered credentials.</h5>
 <h5>3. Raise an issue by providing a description of the problem.</h5> 
 <h5>4. View the status of the raised issue, whether it is open or closed.</h5>
@@ -28,7 +28,7 @@
 
 <h3>Schema Below</h3>
 
-<img src="https://github.com/amanar0358/longing-mailbox-6052/assets/119345842/b45632fe-7033-40a2-a6dc-bc1530f61b16" />
+<img src="https://user-images.githubusercontent.com/119345842/246688158-b45632fe-7033-40a2-a6dc-bc1530f61b16.png" />
 </hr>
 
 
